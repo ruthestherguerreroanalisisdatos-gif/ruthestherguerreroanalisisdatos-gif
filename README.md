@@ -48,6 +48,10 @@ https://github.com/ruthestherguerreroanalisisdatos-gif/data-analytics-practices
 📚 data-analytics-practices — Ejercicios de organización y análisis de datos
 (agrega aquí tu repo portafolio-freelance con muestras de conciliaciones y artículos)
 <br>
+https://github.com/ruthestherguerreroanalisisdatos-gif/analisis-de-datos-jupiter-practicas
+https://github.com/ruthestherguerreroanalisisdatos-gif/limpieza-de-datos-con-powerbi
+https://github.com/ruthestherguerreroanalisisdatos-gif/Conciliaciones-Bancarias
+https://github.com/ruthestherguerreroanalisisdatos-gif/redaccion-de-textos
 
 📫 Contacto
 ruthestherguerrero2501@gmail.com
