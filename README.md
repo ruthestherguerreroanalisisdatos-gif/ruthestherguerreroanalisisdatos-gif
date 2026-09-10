@@ -39,7 +39,7 @@ data-analytics-practices
 
 </div>
 
-<sub>(Esta tarjeta se genera automáticamente desde tu repo real — se verá bien en cuanto cambies tu usuario a rutheguerrero. Si prefieres no usarla, bórrala y deja solo el link de texto de abajo.)</sub>
+https://github.com/ruthestherguerreroanalisisdatos-gif/data-analytics-practices
 
 📚 data-analytics-practices — Ejercicios de organización y análisis de datos
 (agrega aquí tu repo portafolio-freelance con muestras de conciliaciones y artículos)
