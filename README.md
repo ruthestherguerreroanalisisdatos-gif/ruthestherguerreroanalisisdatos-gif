@@ -13,14 +13,13 @@ Disponible para proyectos freelance, cortos y a largo plazo. 🟢
 <br>
 🧰 Herramientas
 <div align="center">
-  <img src="..." width="150">
-<img width="738" height="414" alt="image" src="https://github.com/user-attachments/assets/90da9dc9-43a8-455d-b7c7-164aa275287f" />
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/c175606e-7cb2-48f4-a99b-0c597c58b036" />
-<img width="467" height="428" alt="image" src="https://github.com/user-attachments/assets/1e7f1e08-b900-4cda-a869-67fa174ae70e" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6088f9eb-5980-41cb-bee9-bdb8140f3e00" />
-<img width="415" height="481" alt="image" src="https://github.com/user-attachments/assets/372b7c9f-974b-4cbf-9687-9c5e17dabb11" />
-<img width="738" height="414" alt="image" src="https://github.com/user-attachments/assets/c75a8982-d996-428a-b211-0831fd277937" />
-<img width="738" height="387" alt="image" src="https://github.com/user-attachments/assets/fcfacebb-323d-438e-9bdb-afa359fcee26" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/90da9dc9-43a8-455d-b7c7-164aa275287f" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/c175606e-7cb2-48f4-a99b-0c597c58b036" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/1e7f1e08-b900-4cda-a869-67fa174ae70e" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/6088f9eb-5980-41cb-bee9-bdb8140f3e00" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/372b7c9f-974b-4cbf-9687-9c5e17dabb11" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/c75a8982-d996-428a-b211-0831fd277937" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/fcfacebb-323d-438e-9bdb-afa359fcee26" />
 
 
 
