@@ -30,8 +30,10 @@ Disponible para proyectos freelance, cortos y a largo plazo. 🟢
 Servicio	Qué incluye
 🏦 Conciliaciones bancarias	Cuadre de cuentas, detección de discrepancias, reportes claros
 🧹 Limpieza y organización de datos	Depuración de bases de datos en Excel, Power BI Google Sheets y Python
+
 ✍️ Redacción de artículos	Contenido claro y estructurado para blogs y sitios web
 <br>
+
 📌 Proyectos y muestras de trabajo
 <div align="center">
 
@@ -44,8 +46,10 @@ https://github.com/ruthestherguerreroanalisisdatos-gif/data-analytics-practices
 📚 data-analytics-practices — Ejercicios de organización y análisis de datos
 (agrega aquí tu repo portafolio-freelance con muestras de conciliaciones y artículos)
 <br>
+
 📫 Contacto
 ruthestherguerrero2501@gmail.com
++1(829)-463-2906
 
 LinkedIn
 www.linkedin.com/in/ruth-esther-guerrero-del-rosario-2850083a2
