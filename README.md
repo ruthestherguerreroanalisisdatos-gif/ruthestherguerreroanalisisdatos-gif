@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-💼 Freelancer · Conciliaciones Bancarias · Datos · Redacción
+💼 FreeLancer · Conciliaciones Bancarias · Análisis Datos 
 
 📍 Santo Domingo, D.N.  ·  🔗 LinkedIn
 
 </div> <br>
 
-Combino precisión numérica con capacidad de comunicación: preparo bases de datos confiables en Excel y Power BI, concilio cuentas bancarias sin errores, y redacto contenido claro y bien estructurado para blogs y sitios web.
+Combino precisión numérica con capacidad de comunicación: preparo bases de datos confiables en Excel y Power BI, limpieza de datos con Power Query, concilio cuentas bancarias sin errores.
 
 Disponible para proyectos freelance, cortos y a largo plazo. 🟢
 
